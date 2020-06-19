@@ -8,11 +8,8 @@ require(dplyr, quietly = TRUE)
 require(tidyr, quietly = TRUE)
 require(magrittr, quietly = TRUE)
 require(future.apply, quietly = TRUE)
-require(fable, quietly = TRUE)
-require(fabletools, quietly = TRUE)
-require(feasts, quietly = TRUE)
-require(urca, quietly = TRUE)
 require(data.table)
+require(forecastHybrid)
 
 
 # Get cases ---------------------------------------------------------------
